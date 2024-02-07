@@ -8,7 +8,8 @@ Text tags are converted into Adobe Sign form fields when the document is sent fo
 This text tagging guide provides examples for all of your text tagging options.  All you need to do is simply upload this document into Adobe Sign and send for Signature.  You will then be able to see real life examples from the tags below and see how they look in the signing environment.
 
 Additional resources when creating tags:
-<a href="https://helpx.adobe.com/sign/using/text-tag.html"> Text Tag Helpx </a> <br>
+<a href="https://helpx.adobe.com/sign/using/text-tag.html"> Text Tag Helpx </a>
+
 <a href="https://helpx.adobe.com/sign/using/create-forms-with-acrobat.html"> Creating forms using Acrobat </a>
 
 
